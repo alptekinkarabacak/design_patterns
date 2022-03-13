@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/Observable.h
+ObservableInterface.h
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/ObservableInterface.h
+
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/ObservableInterface.h
+vector
+-
+Observer.h
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/Observer.h
+
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/Observer.h
+
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/main.cpp
+iostream
+-
+Observer.h
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/Observer.h
+Observable.h
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/Observer/Observable.h
+
