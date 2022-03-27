@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/design_patterns/LockFree_Singleton/Singleton.cpp
+Singleton.h
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/design_patterns/LockFree_Singleton/Singleton.h
+
+/Users/alptekinsmacbook/CLionProjects/DesignPatterns/design_patterns/LockFree_Singleton/Singleton.h
+mutex
+-
+
